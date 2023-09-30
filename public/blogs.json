@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/6s6wWtY/Cover-06.jpg",
+        "title": "The Adventure Begins",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/w4LX695/my-picture-02.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": "2 hours",
+        "hashtags": ["Adventure", "Journey", "Exploration"]
+      },
+      {
+        "id": 2,
+        "cover": "https://i.ibb.co/qyHtJL1/Cover-04.jpg",
+        "title": "Mystery of the Sphinx",
+        "author": "Sarah Johnson",
+        "author_img": "https://i.ibb.co/w4LX695/my-picture-02.jpg",
+        "posted_date": "2023-09-20",
+        "reading_time": "3.5 hours",
+        "hashtags": ["Mystery", "Archaeology", "History"]
+      },
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co/dK7wPnv/Cover-03.jpg",
+        "title": "Fantasy Realm",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co/w4LX695/my-picture-02.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": "1.5 hours",
+        "hashtags": ["Fantasy", "Magic", "Adventure"]
+      },
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co/84vvMgL/bottle-05.jpg",
+        "title": "Fantasy Realm",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co/w4LX695/my-picture-02.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": "1.5 hours",
+        "hashtags": ["Fantasy", "Magic", "Adventure"]
+      },
+      {
+        "id": 4,
+        "cover": "https://i.ibb.co/Ry7YvPG/bottle-04.jpg",
+        "title": "Tech Titans",
+        "author": "David Anderson",
+        "author_img": "https://i.ibb.co/w4LX695/my-picture-02.jpg",
+        "posted_date": "2023-09-18",
+        "reading_time": "4 hours",
+        "hashtags": ["Technology", "Innovation", "Business"]
+      },
+      {
+        "id": 5,
+        "cover": "https://i.ibb.co/WpX4TTN/bottle-02.jpg",
+        "title": "Gourmet Delights",
+        "author": "Maria Rodriguez",
+        "author_img": "https://i.ibb.co/w4LX695/my-picture-02.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": "1 hour",
+        "hashtags": ["Cooking", "Recipes", "Foodie"]
+      }
+      
+      
+      
+]
